@@ -16,4 +16,5 @@ It’s a beginner-friendly project showcasing **loops, conditionals, user input 
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
+      https://github.com/pushpanjalich1985/Rolling_dice.git
     
